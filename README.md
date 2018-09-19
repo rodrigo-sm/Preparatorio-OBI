@@ -1,7 +1,6 @@
 # SOLUÇÕES PARA A OBI
 
-Minhas soluções para os problemas do curso prepatorio para a [OBI]
-(https://olimpiada.ic.unicamp.br/) realizado pela UNISANTOS.  
+Minhas soluções para os problemas do curso prepatorio para a [OBI](https://olimpiada.ic.unicamp.br/) realizado pela UNISANTOS.  
 
 As soluções foram feitas em C e os exercicios são da modalidade programaçao nivel sênior.
 <br></br>
